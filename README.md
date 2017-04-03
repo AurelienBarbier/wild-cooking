@@ -1,5 +1,5 @@
 # wild-cooking
-Jouons avec les variables de pages en pages
+Jouons avec les variables de pages en pages.
 
 Dans ce petit exercices, nous allons passer des variables de pages en pages.
 Dans un premier temps, nous recuperons les donnees depuis 2 formulaires differents,
